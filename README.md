@@ -9,3 +9,5 @@ Author links open overlay panelAhmed E.SamyaSamhaa R.El-BeltagybEhabHassaniena
 The word embeddings used from the following paper:
 "Aravec: A set of Arabic Word Embedding Models for Use in Arabic NLP"
 Soliman A.B., Eissa K., El-Beltagy S.R.
+
+
